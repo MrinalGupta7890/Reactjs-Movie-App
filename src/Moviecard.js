@@ -107,6 +107,7 @@ class MovieCard extends Component{
                 </div>
             </div>
         )
+
     }
 }
 
